@@ -2,7 +2,6 @@
 
 import random
 import io
-import requests
 import aiohttp
 import asyncio
 from PIL import Image
